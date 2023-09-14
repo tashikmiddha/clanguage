@@ -1,7 +1,7 @@
 #include<stdio.h>
 struct employee //here we create a structure with name employee this is used when many members has to input the same details like rollno
 {
- int id ;
+ int id ; // in structure there are differnt memory  blocks allorted to different variables 
  int marks;
  char fav_char;
 };//this is the syntex of a structure
